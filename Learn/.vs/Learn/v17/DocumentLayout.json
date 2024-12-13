@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B-stud\\bloxwich\\UP02\\day3-6\\Learn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73804336-B626-43D5-B081-CB3BFBA2B61F}|Learn\\Learn.csproj|D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B-stud\\bloxwich\\UP02\\day3-6\\Learn\\learn\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73804336-B626-43D5-B081-CB3BFBA2B61F}|Learn\\Learn.csproj|solutionrelative:learn\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73804336-B626-43D5-B081-CB3BFBA2B61F}|Learn\\Learn.csproj|D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B-stud\\bloxwich\\UP02\\day3-6\\Learn\\learn\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{73804336-B626-43D5-B081-CB3BFBA2B61F}|Learn\\Learn.csproj|solutionrelative:learn\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73804336-B626-43D5-B081-CB3BFBA2B61F}|Learn\\Learn.csproj|D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B-stud\\bloxwich\\UP02\\day3-6\\Learn\\learn\\edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73804336-B626-43D5-B081-CB3BFBA2B61F}|Learn\\Learn.csproj|solutionrelative:learn\\edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73804336-B626-43D5-B081-CB3BFBA2B61F}|Learn\\Learn.csproj|d:\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B-stud\\bloxwich\\up02\\day3-6\\learn\\learn\\edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{73804336-B626-43D5-B081-CB3BFBA2B61F}|Learn\\Learn.csproj|solutionrelative:learn\\edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73804336-B626-43D5-B081-CB3BFBA2B61F}|Learn\\Learn.csproj|D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B-stud\\bloxwich\\UP02\\day3-6\\Learn\\learn\\record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{73804336-B626-43D5-B081-CB3BFBA2B61F}|Learn\\Learn.csproj|solutionrelative:learn\\record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73804336-B626-43D5-B081-CB3BFBA2B61F}|Learn\\Learn.csproj|D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B-stud\\bloxwich\\UP02\\day3-6\\Learn\\learn\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{73804336-B626-43D5-B081-CB3BFBA2B61F}|Learn\\Learn.csproj|solutionrelative:learn\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73804336-B626-43D5-B081-CB3BFBA2B61F}|Learn\\Learn.csproj|D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B-stud\\bloxwich\\UP02\\day3-6\\Learn\\learn\\record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73804336-B626-43D5-B081-CB3BFBA2B61F}|Learn\\Learn.csproj|solutionrelative:learn\\record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Record.cs",
+              "DocumentMoniker": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B-stud\\bloxwich\\UP02\\day3-6\\Learn\\Learn\\Record.cs",
+              "RelativeDocumentMoniker": "Learn\\Record.cs",
+              "ToolTip": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B-stud\\bloxwich\\UP02\\day3-6\\Learn\\Learn\\Record.cs",
+              "RelativeToolTip": "Learn\\Record.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAAC4AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T06:29:15.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cs",
+              "DocumentMoniker": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B-stud\\bloxwich\\UP02\\day3-6\\Learn\\Learn\\Edit.cs",
+              "RelativeDocumentMoniker": "Learn\\Edit.cs",
+              "ToolTip": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B-stud\\bloxwich\\UP02\\day3-6\\Learn\\Learn\\Edit.cs",
+              "RelativeToolTip": "Learn\\Edit.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAIA2wBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T06:28:00.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B-stud\\bloxwich\\UP02\\day3-6\\Learn\\Learn\\MainForm.cs",
+              "RelativeDocumentMoniker": "Learn\\MainForm.cs",
+              "ToolTip": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B-stud\\bloxwich\\UP02\\day3-6\\Learn\\Learn\\MainForm.cs",
+              "RelativeToolTip": "Learn\\MainForm.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T01:59:00.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "View.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B-stud\\bloxwich\\UP02\\day3-6\\Learn\\Learn\\View.cs",
+              "RelativeDocumentMoniker": "Learn\\View.cs",
+              "ToolTip": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B-stud\\bloxwich\\UP02\\day3-6\\Learn\\Learn\\View.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Learn\\View.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T06:18:30.923Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Record.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B-stud\\bloxwich\\UP02\\day3-6\\Learn\\Learn\\Record.cs",
+              "RelativeDocumentMoniker": "Learn\\Record.cs",
+              "ToolTip": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B-stud\\bloxwich\\UP02\\day3-6\\Learn\\Learn\\Record.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Learn\\Record.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T06:18:16.368Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B-stud\\bloxwich\\UP02\\day3-6\\Learn\\Learn\\Edit.cs",
+              "RelativeDocumentMoniker": "Learn\\Edit.cs",
+              "ToolTip": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B-stud\\bloxwich\\UP02\\day3-6\\Learn\\Learn\\Edit.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Learn\\Edit.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T06:17:43.35Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B-stud\\bloxwich\\UP02\\day3-6\\Learn\\Learn\\MainForm.cs",
+              "RelativeDocumentMoniker": "Learn\\MainForm.cs",
+              "ToolTip": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B-stud\\bloxwich\\UP02\\day3-6\\Learn\\Learn\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Learn\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T05:51:54.928Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
